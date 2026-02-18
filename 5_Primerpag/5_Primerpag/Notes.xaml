@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:micodig="clr-namespace:Mod2_UI"
+             x:Class="Mod2_UI.Notes"
+             Title="Notes">
+    <VerticalStackLayout Padding="30,60,30,30" BackgroundColor = "{OnPlatform WinUI=white, iOS=Silver, Android=white}" >
+        <Label Text="Notes"
+                  FontSize="{micodig:GlobalFontSize}"
+               HorizontalOptions="Center"
+                TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
+               FontAttributes="Bold" />
+
+        <Editor x:Name="editor"
+                Placeholder="Escribe tu nota"
+                HeightRequest="{OnPlatform 100, Android=500, iOS=500}" />
+
+        <Grid ColumnDefinitions="Auto, 30, Auto">
+            <Button Grid.Column="0"
+                        Text="Save" 
+                        TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
+                        WidthRequest="100"
+                        Clicked="OnSaveButtonClicked" />
+
+            <Button Grid.Column="2"
+                    Text="Delete" 
+                    TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
+                    WidthRequest="100"
+                    Clicked="OnDeleteButtonClicked" />
+        </Grid>
+
+        <Label Text="Soy luna " FontSize="{micodig:GlobalFontSize}" 
+               TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
+        HorizontalOptions="Center"
+        FontAttributes="Bold" />
+        
+    </VerticalStackLayout>
+</ContentPage>

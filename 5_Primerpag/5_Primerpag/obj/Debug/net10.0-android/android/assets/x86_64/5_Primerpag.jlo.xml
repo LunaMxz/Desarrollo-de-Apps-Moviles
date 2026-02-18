@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc647ddb397d3ac8bf56" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="_5_Primerpag.MainActivity, 5_Primerpag">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc647ddb397d3ac8bf56" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="_5_Primerpag.MainApplication, 5_Primerpag" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="5_Primerpag" module-name="5_Primerpag.dll">
+    <type assembly-qualified-name="_5_Primerpag.MainActivity, 5_Primerpag, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="_5_primerpag.MainActivity" java-key="crc647ddb397d3ac8bf56.MainActivity" managed-key="_5_Primerpag.MainActivity" partial-assembly-qualified-name="_5_Primerpag.MainActivity, 5_Primerpag" />
+    <type assembly-qualified-name="_5_Primerpag.MainApplication, 5_Primerpag, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="_5_primerpag.MainApplication" java-key="crc647ddb397d3ac8bf56.MainApplication" managed-key="_5_Primerpag.MainApplication" partial-assembly-qualified-name="_5_Primerpag.MainApplication, 5_Primerpag" />
+  </acw-types>
+</api>

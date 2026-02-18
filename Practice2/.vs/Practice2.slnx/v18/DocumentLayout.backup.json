@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lylav\\source\\repos\\Practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6702C4-5E7C-4D97-BCDE-9F9206E2FAA8}|Practice2\\Practice2.csproj|c:\\users\\lylav\\source\\repos\\practice2\\practice2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BA6702C4-5E7C-4D97-BCDE-9F9206E2FAA8}|Practice2\\Practice2.csproj|solutionrelative:practice2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6702C4-5E7C-4D97-BCDE-9F9206E2FAA8}|Practice2\\Practice2.csproj|c:\\users\\lylav\\source\\repos\\practice2\\practice2\\test.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6702C4-5E7C-4D97-BCDE-9F9206E2FAA8}|Practice2\\Practice2.csproj|solutionrelative:practice2\\test.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\Practice2\\Practice2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Practice2\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\Practice2\\Practice2\\AppShell.xaml",
+              "RelativeToolTip": "Practice2\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-17T21:23:57.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\Practice2\\Practice2\\Test.xaml.cs",
+              "RelativeDocumentMoniker": "Practice2\\Test.xaml.cs",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\Practice2\\Practice2\\Test.xaml.cs",
+              "RelativeToolTip": "Practice2\\Test.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T21:00:55.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

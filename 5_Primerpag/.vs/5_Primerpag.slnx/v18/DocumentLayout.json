@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|c:\\users\\lylav\\source\\repos\\5_primerpag\\5_primerpag\\notes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|solutionrelative:5_primerpag\\notes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|c:\\users\\lylav\\source\\repos\\5_primerpag\\5_primerpag\\notes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|solutionrelative:5_primerpag\\notes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|c:\\users\\lylav\\source\\repos\\5_primerpag\\5_primerpag\\reccompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|solutionrelative:5_primerpag\\reccompartidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|c:\\users\\lylav\\source\\repos\\5_primerpag\\5_primerpag\\notescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC37552-9038-45E7-89FB-2FE5BE3AAE9B}|5_Primerpag\\5_Primerpag.csproj|solutionrelative:5_primerpag\\notescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notes.xaml",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\Notes.xaml",
+              "RelativeDocumentMoniker": "5_Primerpag\\Notes.xaml",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\Notes.xaml",
+              "RelativeToolTip": "5_Primerpag\\Notes.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-18T11:11:55.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecCompartidos.cs",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\RecCompartidos.cs",
+              "RelativeDocumentMoniker": "5_Primerpag\\RecCompartidos.cs",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\RecCompartidos.cs",
+              "RelativeToolTip": "5_Primerpag\\RecCompartidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:37:13.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Notes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\Notes.xaml.cs",
+              "RelativeDocumentMoniker": "5_Primerpag\\Notes.xaml.cs",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\Notes.xaml.cs",
+              "RelativeToolTip": "5_Primerpag\\Notes.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:11:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesCS.cs",
+              "DocumentMoniker": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\NotesCS.cs",
+              "RelativeDocumentMoniker": "5_Primerpag\\NotesCS.cs",
+              "ToolTip": "C:\\Users\\lylav\\source\\repos\\5_Primerpag\\5_Primerpag\\NotesCS.cs",
+              "RelativeToolTip": "5_Primerpag\\NotesCS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:06:24.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

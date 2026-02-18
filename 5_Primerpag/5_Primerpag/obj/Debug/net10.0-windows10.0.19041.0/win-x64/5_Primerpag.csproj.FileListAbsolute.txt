@@ -1,0 +1,12 @@
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\5_Primerpag.csproj.AssemblyReference.cache
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauiimage.inputs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauifont.inputs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauisplash.inputs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\mauimanifest.stamp
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.i.cs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.g.cs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlTypeInfo.g.cs
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xaml
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\Platforms\Windows\App.xbf
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\XamlSaveStateFile.xml
+C:\Users\lylav\source\repos\5_Primerpag\5_Primerpag\obj\Debug\net10.0-windows10.0.19041.0\win-x64\5_Primerpag.GeneratedMSBuildEditorConfig.editorconfig
