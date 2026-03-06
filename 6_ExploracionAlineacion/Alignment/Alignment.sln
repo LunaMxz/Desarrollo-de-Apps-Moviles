@@ -1,9 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31611.283
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11512.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alignment", "Alignment.csproj", "{A2999CC6-E7FC-4E9F-8A6E-838819DB6ED0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8028B6A9-C1B6-48ED-8D4D-0E643BB898B9}"
+	ProjectSection(SolutionItems) = preProject
+		BoxV.xaml = BoxV.xaml
+		BoxV.xaml.cs = BoxV.xaml.cs
+		Class1.cs = Class1.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

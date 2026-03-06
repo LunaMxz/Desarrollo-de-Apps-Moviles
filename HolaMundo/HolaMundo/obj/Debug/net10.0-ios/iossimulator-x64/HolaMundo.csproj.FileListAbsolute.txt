@@ -316,3 +316,8 @@ C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-ios\iossimulat
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-ios\iossimulator-x64\HolaMundo.pdb
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-ios\iossimulator-x64\HolaMundo.genruntimeconfig.cache
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-ios\iossimulator-x64\ref\HolaMundo.dll
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-ios\iossimulator-x64\HolaMundo.sourcelink.json

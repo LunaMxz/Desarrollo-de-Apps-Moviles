@@ -1,4 +1,4 @@
-<api type="debug" assembly-name="HolaMundo" mvid="3a83cd434756405bb0073519c46e67df">
+<api type="debug" assembly-name="HolaMundo" mvid="22ffe73744e44101a14e19d8759251cb">
   <java-to-managed>
     <entry java-name="crc647f3089e8dac34ff6/MainActivity" managed-name="HolaMundo.MainActivity, HolaMundo" managed-type-token-id="33554442" />
     <entry java-name="crc647f3089e8dac34ff6/MainApplication" managed-name="HolaMundo.MainApplication, HolaMundo" managed-type-token-id="33554443" />

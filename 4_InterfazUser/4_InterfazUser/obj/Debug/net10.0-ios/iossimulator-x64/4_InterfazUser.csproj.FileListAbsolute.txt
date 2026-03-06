@@ -260,10 +260,6 @@ C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
-C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
-C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
-C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\bin\Debug\net10.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.csproj.AssemblyReference.cache
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\partialappmanifest\_PartialAppManifests.items
@@ -314,6 +310,7 @@ C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.AssemblyInfoInputs.cache
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.AssemblyInfo.cs
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.csproj.CoreCompileInputs.cache
+C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.sourcelink.json
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_Interf.0AE2753F.Up2Date
 C:\Users\lylav\source\repos\4_InterfazUser\4_InterfazUser\obj\Debug\net10.0-ios\iossimulator-x64\4_InterfazUser.dll

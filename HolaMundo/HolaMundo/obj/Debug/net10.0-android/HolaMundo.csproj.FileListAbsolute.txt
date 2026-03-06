@@ -2690,3 +2690,4 @@ C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-android\androi
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.XamlTapContract.jlo.xml
 C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-android\android\assets\x86_64\Microsoft.VisualStudio.DesignTools.XamlTapContract.typemap.xml
+C:\Users\lylav\source\repos\HolaMundo\HolaMundo\obj\Debug\net10.0-android\HolaMundo.sourcelink.json

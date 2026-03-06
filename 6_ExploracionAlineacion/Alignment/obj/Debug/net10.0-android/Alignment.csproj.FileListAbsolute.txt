@@ -1745,6 +1745,7 @@ C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.AssemblyInfoInputs.cache
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.AssemblyInfo.cs
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.csproj.CoreCompileInputs.cache
+C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.sourcelink.json
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\XamlC.stamp
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.csproj.Up2Date
 C:\Users\lylav\source\repos\6_ExploracionAlineacion\Alignment\obj\Debug\net10.0-android\Alignment.dll

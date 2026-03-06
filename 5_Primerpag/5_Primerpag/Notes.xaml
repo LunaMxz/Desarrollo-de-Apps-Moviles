@@ -17,22 +17,27 @@
 
         <Grid ColumnDefinitions="Auto, 30, Auto">
             <Button Grid.Column="0"
-                        Text="Save" 
-                        TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
-                        WidthRequest="100"
-                        Clicked="OnSaveButtonClicked" />
+            Text="Save" 
+            TextColor="Blue"
+            BackgroundColor="White"
+            BorderColor="Blue"
+            BorderWidth="2"
+            WidthRequest="100"
+            Clicked="OnSaveButtonClicked" />
 
             <Button Grid.Column="2"
-                    Text="Delete" 
-                    TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
-                    WidthRequest="100"
-                    Clicked="OnDeleteButtonClicked" />
+            Text="Delete" 
+            TextColor="Blue"
+            BackgroundColor="White"
+            BorderColor="Blue"
+            BorderWidth="2"
+            WidthRequest="100"
+            Clicked="OnDeleteButtonClicked" />
         </Grid>
-
-        <Label Text="Soy luna " FontSize="{micodig:GlobalFontSize}" 
+        <Label Text="Borra o Guarda " FontSize="{micodig:GlobalFontSize}" 
                TextColor="{x:Static Member=micodig:RecCompartidos.FontColor}"
         HorizontalOptions="Center"
-        FontAttributes="Bold" />
+        FontAttributes="Bold" /> 
         
     </VerticalStackLayout>
 </ContentPage>
